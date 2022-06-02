@@ -1,20 +1,20 @@
 # Sergey Sekridov
 
-![Photo of me](/rsschool-cv/IMG_0002.JPG)
+![Photo of me](IMG_0002.JPG)
 
 ## Contact Information
 
 * **Adress:** Moscow, Russian Federation
 Marshala Zhukova, 22/3, 47
 123423
-* **Phone:** [+7 (916) 801 56 53](tel:+79168015653)
+* **Phone:** +7 (916) 801 56 53
 * **Email:** [ssekridov@gmail.com](mailto:ssekridov@gmail.com)
 * **GitHub:** [strei-foxflashbacks](https://github.com/strei-foxflashbacks)
-* **Discord** Strei (@strei-foxflashbacks)
+* **Discord:** Strei (@strei-foxflashbacks)
 
 ## Me:
 
-Always open to something new. My goal is to become an independent specialist with perfect life-work balance. I am starting my journey to backend engineer, armed with curiocity, meticulousness and will to discover.
+> Always open to something new. My goal is to become an independent specialist with perfect life-work balance. I am starting my journey to backend engineer, armed with curiocity, meticulousness and will to discover.
 
 ## Skills:
 
