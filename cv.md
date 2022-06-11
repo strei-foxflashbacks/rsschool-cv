@@ -1,6 +1,6 @@
 # Sergey Sekridov
 
-![Photo of me](IMG_0002.JPG)
+![Photo of me](assets/img/IMG_0002.JPG)
 
 ## Contact Information
 
