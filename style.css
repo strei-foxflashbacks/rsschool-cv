@@ -1,21 +1,51 @@
-font-family {
- font-family: 'Roboto Mono', monospace;
-}
-
-
-* {
-    box-sizing: border-box;
-}
-
-
-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-
 .container {
     max-width: 1440px;
     margin: 0 auto;
   }
+
+  
+* {
+    box-sizing: border-box;
+}    
+  
+
+/*font-family {
+ font-family: 'Roboto Mono', monospace;      
+}*/  
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}    
+
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+  }
+
+
+html {
+    scroll-behavior: smooth; 
+}
+
+
+.nav-item a {
+    color: #829985;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+.nav-item a:hover {
+    color: #4d2323;
+}
