@@ -1,7 +1,7 @@
 .container {
     max-width: 1440px;
     margin: 0 auto;
-  }
+}
 
   
 * {
@@ -23,7 +23,7 @@ body {
 
 .nav-list {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     list-style: none;
 }
@@ -33,7 +33,7 @@ body {
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
-  }
+}
 
 
 html {
@@ -48,4 +48,43 @@ html {
 }
 .nav-item a:hover {
     color: #4d2323;
+}
+
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+}
+
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5%;
+}
+.section {
+    width: 50%;
+}
+
+.heading {
+    border-bottom: 5px solid #4d2323;
+}
+
+.section-avatar {
+    height: 300px;
+}
+.section-profile {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5%;
 }
