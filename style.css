@@ -42,7 +42,7 @@ html {
 
 
 .nav-item a {
-    color: #829985;
+    color: gray;
     text-decoration: none;  
     transition: color 0.5s;
 }
@@ -69,11 +69,12 @@ html {
 }
 
 .heading {
-    border-bottom: 5px solid #4d2323;
+    border-bottom: 1px solid gray;
 }
 
 .section-avatar {
     height: 300px;
+    /*object-fit: cover;*/
 }
 .section-profile {
     display: flex;
