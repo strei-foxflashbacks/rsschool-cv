@@ -26,6 +26,8 @@ body {
     justify-content: center;
     align-items: center;
     list-style: none;
+    padding: 5%;
+    padding-top: 0%;
 }
 
 
@@ -63,6 +65,7 @@ html {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 5%;
+    font-size: large;
 }
 .section {
     width: 50%;
@@ -88,4 +91,5 @@ html {
     justify-content: space-between;
     align-items: center;
     padding: 5%;
+    padding-bottom: 0%;
 }
