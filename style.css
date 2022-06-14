@@ -77,7 +77,6 @@ html {
 
 .section-avatar {
     height: 300px;
-    /*object-fit: cover;*/
 }
 .section-profile {
     display: flex;
