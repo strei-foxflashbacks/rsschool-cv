@@ -1,0 +1,1 @@
+https://strei-foxflashbacks.github.io/rsschool-cv/
