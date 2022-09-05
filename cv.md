@@ -35,7 +35,7 @@ const reverse = n => parseInt((n > 0 ? (n + '').split('') : (n - (n * 2) + '').s
 
 ## Experience/Projects:
 
-* [CV Project](https://github.com/strei-foxflashbacks/rsschool-cv)
+* [CV Project](https://strei-foxflashbacks.github.io/rsschool-cv/)
 * [Travel](https://rolling-scopes-school.github.io/strei-foxflashbacks-JSFEPRESCHOOL2022Q2/travel/)
 * [Momentum](https://rolling-scopes-school.github.io/strei-foxflashbacks-JSFEPRESCHOOL2022Q2/momentum/)
 * [Eldritch Horror](https://strei-foxflashbacks.github.io/codejam-eldritch/eldritch/)
